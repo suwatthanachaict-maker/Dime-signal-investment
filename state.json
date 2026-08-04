@@ -1,9 +1,9 @@
 {
-  "NVDA": "SELL",
+  "NVDA": "BUY",
   "AAPL": "SELL",
   "MSFT": "BUY",
   "TSLA": "SELL",
-  "AMD": "SELL",
+  "AMD": "HOLD",
   "PTT.BK": "HOLD",
   "KBANK.BK": "BUY",
   "ADVANC.BK": "HOLD",
