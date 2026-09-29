@@ -4,8 +4,8 @@
   "MSFT": "BUY",
   "TSLA": "HOLD",
   "AMD": "BUY",
-  "PTT.BK": "HOLD",
-  "KBANK.BK": "SELL",
+  "PTT.BK": "BUY",
+  "KBANK.BK": "BUY",
   "ADVANC.BK": "SELL",
   "CPALL.BK": "SELL"
 }
